@@ -9,4 +9,4 @@ this repo.
 # Goals
 1. Add functional Copy Button.
 2. Format Copy Button.
-3. Make it delopable on any Gitpages website. 
+3. Make it deployable on any Gitpages website. 
