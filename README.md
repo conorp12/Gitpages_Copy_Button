@@ -10,3 +10,10 @@ this repo.
 1. Add functional Copy Button.
 2. Format Copy Button.
 3. Make it deployable on any Gitpages website. 
+
+Following the tutorial found [here](https://www.aleksandrhovhannisyan.com/blog/how-to-add-a-copy-to-clipboard-button-to-your-jekyll-blog/) this is the result.
+
+{% include codeHeader.html %}
+```someLanguage
+code goes in here!
+```
