@@ -18,3 +18,13 @@ Following the tutorial found [here](https://www.aleksandrhovhannisyan.com/blog/h
 code goes in here!
 ```
 It doesn't seem to be copying
+That tutorial doesn't seem to however the website it uses seems to used a more advanced copy button
+so I am going to try to recreate it from the source files of this website.
+
+```html {data-file="_includes/codeHeader.html" data-copyable=true}
+<div class="code-header">
+  <button class="copy-code-button">
+    Copy code to clipboard
+  </button>
+</div>
+```
