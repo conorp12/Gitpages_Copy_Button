@@ -30,4 +30,4 @@ so I am going to try to recreate it from the source files of this website.
 ```
 The CSS code for the copy buttons is [here](https://github.com/AleksandrHovhannisyan/aleksandrhovhannisyan.com/blob/master/src/assets/styles/partials/components/_codeBlock.scss).
 
-The Javascript file is [here] (https://github.com/AleksandrHovhannisyan/aleksandrhovhannisyan.com/blob/master/src/assets/scripts/index.mjs)
+The Javascript file is [here](https://github.com/AleksandrHovhannisyan/aleksandrhovhannisyan.com/blob/master/src/assets/scripts/index.mjs).
